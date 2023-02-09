@@ -1,0 +1,5 @@
+C:\Users\joshm\Desktop\TestPublish\T1A1.exe
+C:\Users\joshm\Desktop\TestPublish\T1A1.dll
+C:\Users\joshm\Desktop\TestPublish\T1A1.deps.json
+C:\Users\joshm\Desktop\TestPublish\T1A1.runtimeconfig.json
+C:\Users\joshm\Desktop\TestPublish\T1A1.pdb

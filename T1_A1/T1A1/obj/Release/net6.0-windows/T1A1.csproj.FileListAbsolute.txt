@@ -1,0 +1,17 @@
+C:\Users\joshm\source\repos\CST-150\T1A1\bin\Release\net6.0-windows\T1A1.exe
+C:\Users\joshm\source\repos\CST-150\T1A1\bin\Release\net6.0-windows\T1A1.deps.json
+C:\Users\joshm\source\repos\CST-150\T1A1\bin\Release\net6.0-windows\T1A1.runtimeconfig.json
+C:\Users\joshm\source\repos\CST-150\T1A1\bin\Release\net6.0-windows\T1A1.dll
+C:\Users\joshm\source\repos\CST-150\T1A1\bin\Release\net6.0-windows\T1A1.pdb
+C:\Users\joshm\source\repos\CST-150\T1A1\obj\Release\net6.0-windows\T1A1.csproj.AssemblyReference.cache
+C:\Users\joshm\source\repos\CST-150\T1A1\obj\Release\net6.0-windows\T1A1.Form1.resources
+C:\Users\joshm\source\repos\CST-150\T1A1\obj\Release\net6.0-windows\T1A1.csproj.GenerateResource.cache
+C:\Users\joshm\source\repos\CST-150\T1A1\obj\Release\net6.0-windows\T1A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshm\source\repos\CST-150\T1A1\obj\Release\net6.0-windows\T1A1.AssemblyInfoInputs.cache
+C:\Users\joshm\source\repos\CST-150\T1A1\obj\Release\net6.0-windows\T1A1.AssemblyInfo.cs
+C:\Users\joshm\source\repos\CST-150\T1A1\obj\Release\net6.0-windows\T1A1.csproj.CoreCompileInputs.cache
+C:\Users\joshm\source\repos\CST-150\T1A1\obj\Release\net6.0-windows\T1A1.dll
+C:\Users\joshm\source\repos\CST-150\T1A1\obj\Release\net6.0-windows\refint\T1A1.dll
+C:\Users\joshm\source\repos\CST-150\T1A1\obj\Release\net6.0-windows\T1A1.pdb
+C:\Users\joshm\source\repos\CST-150\T1A1\obj\Release\net6.0-windows\T1A1.genruntimeconfig.cache
+C:\Users\joshm\source\repos\CST-150\T1A1\obj\Release\net6.0-windows\ref\T1A1.dll
